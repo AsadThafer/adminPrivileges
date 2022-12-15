@@ -12,7 +12,7 @@ A web application built with HTML, CSS, JavaScript and PHP for managing user pri
 
 1. Clone or download the repository
 2. Extract the files
-3. Create a database and import the `admin_privileges.sql` file
+3. Create a database that matches the user table info from the project .
 3. Run Wamp Server make sure to match the DB Connect in php code.
 4. Copy The repository to C:\wamp64\www folder.
 5. Access the application by going to localhost/adminPrivileges in your browser.
